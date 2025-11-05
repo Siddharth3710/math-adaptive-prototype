@@ -1,5 +1,4 @@
 """
-Enhanced Main Application
 Adaptive Math Learning System - Console Interface
 with improved UX, progress tracking, and session persistence
 """
