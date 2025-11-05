@@ -1,0 +1,48 @@
+{
+  "username": "bruce",
+  "total_questions": 10,
+  "correct_answers": 10,
+  "accuracy_percentage": 100.0,
+  "average_time": 2.583019804954529,
+  "final_difficulty": "hard",
+  "difficulty_progression": [
+    "hard",
+    "hard",
+    "hard",
+    "hard",
+    "hard",
+    "hard",
+    "hard",
+    "hard",
+    "hard",
+    "hard"
+  ],
+  "session_duration": 43,
+  "operation_breakdown": {
+    "division": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 100.0
+    },
+    "addition": {
+      "total": 3,
+      "correct": 3,
+      "accuracy": 100.0
+    },
+    "multiplication": {
+      "total": 3,
+      "correct": 3,
+      "accuracy": 100.0
+    },
+    "subtraction": {
+      "total": 2,
+      "correct": 2,
+      "accuracy": 100.0
+    }
+  },
+  "learning_velocity": {
+    "trend": "stable",
+    "start_accuracy": 1.0,
+    "end_accuracy": 1.0
+  }
+}
