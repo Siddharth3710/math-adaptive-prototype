@@ -1,14 +1,30 @@
 # Math Adventures - Adaptive Learning System
-# No external dependencies required for basic version
-# All modules use Python standard library
+# Requirements File
 
-# Optional: If you want to add a web interface later
-# streamlit>=1.28.0
+# This project uses only Python standard library
+# No external dependencies required!
 
-# Optional: For data visualization in analysis
-# matplotlib>=3.7.0
-# pandas>=2.0.0
+# Minimum Python version: 3.7+
 
-# Optional: For ML-based adaptive engine (future enhancement)
-# scikit-learn>=1.3.0
-# numpy>=1.24.0
+# Standard library modules used:
+# - time: For timing user responses
+# - datetime: For session timestamps
+# - random: For puzzle generation
+# - json: For session data persistence
+# - os: For file operations
+# - collections (defaultdict): For operation tracking
+
+# Optional dependencies for development/testing:
+# (None required for core functionality)
+
+# For future enhancements (not currently used):
+# numpy>=1.19.0          # For advanced statistical analysis
+# matplotlib>=3.3.0      # For graphical visualizations
+# pandas>=1.1.0          # For data analysis
+# streamlit>=1.0.0       # For web interface (optional)
+
+# Notes:
+# - This system is designed to be dependency-free for maximum portability
+# - Can run on any system with Python 3.7+ installed
+# - Session data saved as human-readable JSON files
+# - All visualizations use ASCII art (terminal-based)
